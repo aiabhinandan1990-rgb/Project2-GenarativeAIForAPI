@@ -19,10 +19,9 @@ apicontext file contains -
      - Print useful logs for debugging if needed
      - Export the test to a `.spec.ts` file under the `/tests` folder
 4. Do not generate test code until all steps are fully explored and validated.
-```
+`````
 
 Prompt for test case given as below -
-
 ```
 Generate a Playwright API tests for following scenario
 
