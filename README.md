@@ -18,6 +18,25 @@ A reference file named:
 textcontext/webcontext.txt
 ```
 
+Prompt For Test Cases as below -
+
+Generate playwright test for following scenario-
+Test 1 -
+1. Go to 'https://www.saucedemo.com/'
+2. use one of the username from list below accepted username are: and use password as 'secret_sauce'
+3. click on login
+4. verify 'swag lab title' after login
+
+Test 2 -
+1. Go to 'https://www.saucedemo.com/'
+2. use one of the username from list below accepted username are: and use password as 'secret_sauce'
+3. click on login
+4. sauce labs bolt t-shirt add to cart
+5. go to cart and click on checkout button
+6. enter first name, last name, zip/postal code
+7. click on continue
+8. click on finish on checkout: Overview page
+
 was provided as contextual input for GitHub Copilot.
 
 Using this context, GitHub Copilot generated automation test cases dynamically.
