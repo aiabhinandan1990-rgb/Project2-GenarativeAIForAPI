@@ -7,6 +7,19 @@ The automation test cases were generated using GitHub Copilot with the help of c
 
 ```text id="m7x2qp"
 textcontext/apicontext.txt
+`````
+
+apicontext file contains -
+````
+
+1. You are an API test generator using playwright MCP
+2. Use playwright's `request` context and `@playwright/test` framework
+3. The test should : 
+     - Send HTTP request to target API 
+     - Validate the status code , response body and schema(if applicable)
+     - Print useful logs for debugging if needed
+     - Export the test to a `.spec.ts` file under the `/tests` folder
+4. Do not generate test code until all steps are fully explored and validated.
 ```
 Prompt for test case given as below -
 
