@@ -18,8 +18,8 @@ A reference file named:
 textcontext/webcontext.txt
 ```
 
-```Prompt For Test Cases as below -
-
+Prompt For Test Cases as below -
+```text
 Generate playwright test for following scenario-
 Test 1 -
 1. Go to 'https://www.saucedemo.com/'
