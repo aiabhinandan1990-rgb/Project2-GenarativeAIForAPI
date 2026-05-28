@@ -1,2 +1,2 @@
-# Project1-GenarativeAIForAPI
+# Project2-GenarativeAIForAPI
 Designed API flow by using generative AI
