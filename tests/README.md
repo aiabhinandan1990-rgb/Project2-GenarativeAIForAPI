@@ -11,7 +11,6 @@ textcontext/apicontext.txt
 
 apicontext file contains -
 ````
-
 1. You are an API test generator using playwright MCP
 2. Use playwright's `request` context and `@playwright/test` framework
 3. The test should : 
@@ -21,6 +20,7 @@ apicontext file contains -
      - Export the test to a `.spec.ts` file under the `/tests` folder
 4. Do not generate test code until all steps are fully explored and validated.
 ```
+
 Prompt for test case given as below -
 
 ```
