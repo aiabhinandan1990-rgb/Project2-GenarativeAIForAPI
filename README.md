@@ -18,7 +18,7 @@ A reference file named:
 textcontext/webcontext.txt
 ```
 
-Prompt For Test Cases as below -
+```Prompt For Test Cases as below -
 
 Generate playwright test for following scenario-
 Test 1 -
@@ -36,6 +36,7 @@ Test 2 -
 6. enter first name, last name, zip/postal code
 7. click on continue
 8. click on finish on checkout: Overview page
+```
 
 was provided as contextual input for GitHub Copilot.
 
